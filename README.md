@@ -1,4 +1,4 @@
-NETLIFY LINK --> https://dreamy-franklin-774251.netlify.app/
+NETLIFY LINK --> https://awesome-bassi-42d9c1.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
